@@ -9,3 +9,7 @@ get_middle("testing") # => "t"
 get_middle("middle") # => "dd"
 get_middle("A") # => "A"
 get_middle("of") # => "of"
+
+# Instructions
+
+Clone this repo and run "bundle install" to get started  
